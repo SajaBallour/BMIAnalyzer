@@ -15,5 +15,5 @@
     <color name="blue3">#466EE8</color>
     <color name="blue2_bark">#1C3C9C</color>
     <color name="bark_Black">#020202</color>
-    <color name="white_eye">#FFFFF</color>
+    <color name="white_eye">#FFFFFFFF</color>
 </resources>
